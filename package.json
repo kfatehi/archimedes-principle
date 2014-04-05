@@ -1,0 +1,23 @@
+{
+  "name": "archimedes-principle",
+  "version": "0.0.1",
+  "description": "A bouyancy calculator",
+  "main": "src/calc.js",
+  "scripts": {
+    "test": "mocha test/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keyvanfatehi/archimedes-principle"
+  },
+  "keywords": [
+  ],
+  "author": "Keyvan Fatehi",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/keyvanfatehi/archimedes-principle/issues"
+  },
+  "devDependencies": {
+    "mocha": "~1.18.2"
+  }
+}
